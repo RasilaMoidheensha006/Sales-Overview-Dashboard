@@ -1,1 +1,1 @@
-# Sales-Overview-Dashboard
+Developed an interactive Power BI dashboard to analyze sales performance trends, profitability segmentation, and product distribution across regions and Implemented DAX formulas to calculate a 0.20 CAGR and YoY growth rates, improving forecasting accuracy by 15%.
