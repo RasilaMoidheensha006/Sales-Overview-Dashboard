@@ -10,4 +10,5 @@ Steps :
 2. Created DAX Columns and Measures
 
 
- ![image](https://github.com/user-attachments/assets/0eed9250-5bbc-44db-be98-eb66c0e72fa1)
+![Sales over view dashbaord](https://github.com/user-attachments/assets/c91cd339-c2f8-48d2-9784-9f772ab9ad2a)
+
